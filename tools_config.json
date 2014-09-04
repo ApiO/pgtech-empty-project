@@ -1,0 +1,8 @@
+{
+	"project_name" 	: "%GAME_NAME%",
+	"console" 			: "%CONSOLE.EXE%",
+	"level_editor" 		: "%PGTECH_DIR%/pgtech/platform/win32/build/Debug/level_editor.exe",
+	"source_path" 	: "%GAME_PATH%/resources",
+	"data_path" 		: "%GAME_PATH%/data",
+	"game_path"		: "%GAME_PATH%/code/platform/win32/build/Debug/%GAME_NAME%.exe"
+}

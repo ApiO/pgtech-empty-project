@@ -1,0 +1,15 @@
+syntax: glob
+*.sdf
+*.suo
+*.vcxproj.user
+*.opensdf
+
+AS_DEBUG/*
+code/include/*
+code/libraries/*
+code/platform/win32/src*
+data/*
+
+*/build/*
+
+log.txt
