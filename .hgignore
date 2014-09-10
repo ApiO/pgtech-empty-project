@@ -3,6 +3,7 @@ syntax: glob
 *.suo
 *.vcxproj.user
 *.opensdf
+*.filters
 
 AS_DEBUG/*
 code/include/*
